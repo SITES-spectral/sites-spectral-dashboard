@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sites-spectral-dashboard"
+version = "0.1.0"
+description = "Lund University | SITES spectral dashboard"
+authors = ["José Beltrán <jose.beltran@nateko.lu.se>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "sites_spectral_dashboard"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.23.1"
+pandas = "^2.0.2"
+geopandas = "^0.13.2"
+intake-geopandas = "^0.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
