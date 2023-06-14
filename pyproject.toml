@@ -1,15 +1,24 @@
 [tool.poetry]
 name = "sites-spectral-dashboard"
-version = "0.1.0"
+version = "0.1.1"
 description = "Lund University | SITES spectral dashboard"
 authors = ["José Beltrán <jose.beltran@nateko.lu.se>"]
-license = "MIT"
+license = "GPL-3.0 license file: LICENSE"
 readme = "README.md"
 packages = [{include = "sites_spectral_dashboard"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
 streamlit = "^1.23.1"
+bgstools = "^0.1.7"
+opencv-python = "^4.7.0.72"
+pyyaml = "^6.0"
+ffmpeg-python = "^0.2.0"
+st-files-connection = {git = "https://github.com/streamlit/files-connection", rev = "main"}
+matplotlib = "^3.7.1"
+chardet = "^5.1.0"
+fsspec = "^2023.6.0"
+streamlit-elements = "^0.1.0"
 pandas = "^2.0.2"
 geopandas = "^0.13.2"
 intake-geopandas = "^0.4.0"

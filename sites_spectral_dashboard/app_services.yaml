@@ -1,0 +1,9 @@
+# services for multipage streamlit app
+# version: 0.1
+# created_on: 2023-06-14
+# maintainer: José Beltrán - 
+
+- 
+  name: 'UAVs flying calendar'
+  description: 'SITES spectral UAVs planning flying calendar'
+  url: "UAVs_flying_calendar.py"

@@ -12,16 +12,10 @@ geodata/
 *.code-workspace
 
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
-*.jpg
-*.jpeg
-*.png
 *.bmp
 *.tif
 *.tiff
 *.heic
-*.JPG
-*.JPEG
-*.PNG
 *.BMP
 *.TIF
 *.TIFF
@@ -36,6 +30,7 @@ geodata/
 !cfg/yolov3*.cfg
 !sgu-logotype-blue-eng-489.png
 !Logo_BeGeospatial_black_text.png
+
 
 # stations specific ending
 *_stations.csv 
