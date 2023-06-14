@@ -42,11 +42,3 @@ if __name__ == '__main__':
     run()
 else:
     st.error('The app failed initialization. Report issue to mantainers in github')
-
-
-
-
-if __name__ == '__main__':
-    run()
-else:
-    st.error('The app failed initialization. Report issue to mantainers in github')
