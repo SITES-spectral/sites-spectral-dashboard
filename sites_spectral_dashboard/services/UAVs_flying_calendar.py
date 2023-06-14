@@ -3,7 +3,6 @@ import pandas as pd
 import streamlit.components.v1 as components
 
 
-
 def run():
    st.title('UAVs flying calendar')
    st.write('This is a calendar to schedule the UAVs flights')
