@@ -46,16 +46,7 @@ else:
 
 
 
-def main():
-
-    LOGO_SITES_SPECTRAL = st.secrets['LOGO_SITES_SPECTRAL']
-    if LOGO_SITES_SPECTRAL: st.sidebar.image(
-            LOGO_SITES_SPECTRAL, 
-            #width=150,
-            caption= '
-            )
-
 if __name__ == '__main__':
-    main()
+    run()
 else:
     st.error('The app failed initialization. Report issue to mantainers in github')
