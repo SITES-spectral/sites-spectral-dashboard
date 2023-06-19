@@ -18,7 +18,6 @@ st-files-connection = {git = "https://github.com/streamlit/files-connection", re
 matplotlib = "^3.7.1"
 chardet = "^5.1.0"
 fsspec = "^2023.6.0"
-streamlit-elements = "^0.1.0"
 pandas = "^2.0.2"
 geopandas = "^0.13.2"
 intake-geopandas = "^0.4.0"

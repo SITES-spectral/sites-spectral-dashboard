@@ -1765,20 +1765,6 @@ watchdog = {version = "*", markers = "platform_system != \"Darwin\""}
 snowflake = ["snowflake-snowpark-python"]
 
 [[package]]
-name = "streamlit-elements"
-version = "0.1.0"
-description = "React Components for Streamlit."
-optional = false
-python-versions = ">=3.6"
-files = [
-    {file = "streamlit-elements-0.1.0.tar.gz", hash = "sha256:5f9f116f22df3ce4a8636b1dee7c2fd3dc3cb0c66267fd28c3e0314aa1d303a7"},
-    {file = "streamlit_elements-0.1.0-py3-none-any.whl", hash = "sha256:593c4b88c399c55879aa76f7f42970f30106f66acaa4baada6338ae5571790df"},
-]
-
-[package.dependencies]
-streamlit = ">=1.4.0"
-
-[[package]]
 name = "tenacity"
 version = "8.2.2"
 description = "Retry code until it succeeds"
@@ -1964,4 +1950,4 @@ testing = ["big-O", "flake8 (<5)", "jaraco.functools", "jaraco.itertools", "more
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "3c1b35f5759c7571f6826026023db2acdfc82d8d135723eb0f9f03f6eb1eb47f"
+content-hash = "bcd44ed96f8bfbfc78b5a4b1d5c0d77330f6167105fb764250a3bc20de7ddd9e"
