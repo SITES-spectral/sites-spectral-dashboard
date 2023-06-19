@@ -1,0 +1,353 @@
+apiVersion: sites-spectral/v0.1
+kind: Config
+sites_research_stations:
+  Abisko:
+    name: Abisko Scientific Research Station
+    location: Abisko, Sweden
+    latitude: 68.354444
+    longitude: 18.815833
+    elevation: 385
+    timezone: Europe/Stockholm
+    url: https://www.sitespectral.org/research-stations/abisko
+    image: https://www.sitespectral.org/wp-content/uploads/2019/03/Abisko-Scientific-Research-Station-300x200.jpg 
+    description: Abisko Scientific Research Station is located in the village of Abisko, in northern Sweden, 195 km north of the Arctic Circle. The station is situated at the shore of Lake Torneträsk, 385 m above sea level, and surrounded by mountains. The station is owned by the Swedish Polar Research Secretariat and operated by the Abisko Scientific Research Station, part of the Department of Ecology and Environmental Science at Umeå University. The station is open year-round and hosts researchers from all over the world. The station is also a popular destination for tourists and outdoor enthusiasts.
+    contact:
+      name: Abisko Scientific Research Station
+      email:  
+      phone:
+      address:
+      city:
+      state:
+      zip:
+      country: Sweden
+    is_associated_station: false
+    is_SITES_current_infrastructure: true
+    Organization: Swedish Polar Research Secretariat
+    Organization_url: https://polar.se/en/
+    Organization_logo: https://www.sitespectral.org/wp-content/uploads/2019/03/Swedish-Polar-Research-Secretariat-300x200.jpg
+    Organization_description: The Swedish Polar Research Secretariat is a government agency that promotes and coordinates Swedish polar research. The Secretariat provides the research community with the necessary support and resources, and facilitates cooperation at the national and international level. The Secretariat also provides the government with scientific information and advice on issues concerning the polar regions.
+    Main ecosystems: 
+      - Alpine
+      - Forest
+      - Lakes
+      - Streams
+      - Wetland
+    Operational period: year-round
+    acronym: ANS 
+    monitoring programmes:
+      - SITES Water
+      - SITES Spectral
+  Asa:
+    name: Asa Research Station
+    location: Asa, Sweden
+    latitude: 57.1645
+    longitude: 14.7829
+    elevation: 182
+    timezone: Europe/Stockholm
+    url: https://www.sitespectral.org/research-stations/asa
+    image: https://www.sitespectral.org/wp-content/uploads/2019/03/Asa-Research-Station-300x200.jpg
+    description: Asa Research Station is located in the southern part of Sweden, 20 km north of Växjö. The station is situated at the shore of Lake Asasjön, 200 m above sea level, and surrounded by forests. The station is owned by the Swedish University of Agricultural Sciences (SLU) and operated by the Department of Forest Mycology and Plant Pathology at SLU. The station is open year-round and hosts researchers from all over the world. The station is also a popular destination for tourists and outdoor enthusiasts.
+    contact:
+      name: Asa Research Station
+      email:  
+      phone:
+      address:
+      city:
+      state:
+      zip:
+      country: Sweden
+    is_associated_station: false
+    is_SITES_current_infrastructure: true
+    Organization: Swedish University of Agricultural Sciences
+    Organization_url: https://www.slu.se/en/
+    Organization_logo: https://www.sitespectral.org/wp-content/uploads/2019/03/Swedish-University-of-Agricultural-Sciences-300x200.jpg
+    Organization_description: The Swedish University of Agricultural Sciences (SLU) is a university with a clearly defined role in society to take responsibility for the development of learning and expertise in areas concerning biological resources and biological production. This responsibility extends over the research, teaching and environmental monitoring conducted at SLU. SLU is characterized by its openness, and has a strong tradition of collaboration with others both in Sweden and abroad.
+    Main ecosystems: 
+      - Forest
+      - Lakes
+      - Streams
+      - Wetland
+    Operational period: year-round
+    acronym: ASA
+    monitoring programmes:
+      - SITES Water
+      - SITES AquaNet
+      - SITES Spectral
+  Bolmen:
+    name: Bolmen Research Station
+    location: Bolmen, Sweden
+    latitude: 56.9428
+    longitude: 13.6456
+    elevation: 142
+    timezone: Europe/Stockholm
+    url: https://www.sitespectral.org/research-stations/bolmen
+    image: https://www.sitespectral.org/wp-content/uploads/2019/03/Bolmen-Research-Station-300x200.jpg
+    description: Bolmen Research Station is located in the southern part of Sweden, 20 km north of Växjö. The station is situated at the shore of Lake Bolmen, 200 m above sea level, and surrounded by forests. The station is owned by the Swedish University of Agricultural Sciences (SLU) and operated by the Department of Forest Mycology and Plant Pathology at SLU. The station is open year-round and hosts researchers from all over the world. The station is also a popular destination for tourists and outdoor enthusiasts.
+    contact:
+      name: Bolmen Research Station
+      email:  
+      phone:
+      address:
+      city:
+      state:
+      zip:
+      country: Sweden
+    is_associated_station: true
+    is_SITES_current_infrastructure: true
+    Organization: Sweden Water Research - Sydvatten
+    Organization_url: https://www.sydvatten.se/
+    Organization_logo: https://www.sitespectral.org/wp-content/uploads/2019/03/Sweden-Water-Research-Sydvatten-300x200.jpg
+    Organization_description: Sweden Water Research is a research and development company owned by Sydvatten AB, a municipal water company that supplies drinking water to 1.7 million people in southern Sweden. Sweden Water Research is responsible for the research and development activities of Sydvatten AB, and also conducts research and development projects for other water companies and organizations. The company is located in Vomb, 20 km north of Malmö.
+    Main ecosystems: 
+      - Lakes
+      - Streams
+      - Wetland
+    Operational period: year-round
+    acronym: BOL
+    monitoring programmes:
+      - SITES AquaNet      
+  Erken:
+    name: Erken Laboratory
+    location: Erken, Sweden
+    latitude: 59.8350
+    longitude: 18.6327
+    elevation: 18
+    timezone: Europe/Stockholm
+    url: https://www.sitespectral.org/research-stations/erken
+    image: https://www.sitespectral.org/wp-content/uploads/2019/03/Erken-Laboratory-300x200.jpg
+    description: Erken Laboratory is located in the eastern part of Sweden, 90 km north of Stockholm. The station is situated at the shore of Lake Erken, 20 m above sea level, and surrounded by forests. The station is owned by Uppsala University and operated by the Department of Ecology and Genetics at Uppsala University. The station is open year-round and hosts researchers from all over the world. The station is also a popular destination for tourists and outdoor enthusiasts.
+    contact:
+      name: Erken Laboratory
+      email:  
+      phone:
+      address:
+      city:
+      state:
+      zip:
+      country: Sweden
+    is_associated_station: false
+    is_SITES_current_infrastructure: true
+    Organization: Uppsala University
+    Organization_url: https://www.uu.se/en/
+    Organization_logo: https://www.sitespectral.org/wp-content/uploads/2019/03/Uppsala-University-300x200.jpg
+    Organization_description: Uppsala University is a comprehensive research-intensive university with a strong international standing. Our mission is to pursue top-quality research and education and to interact constructively with society. Our most important assets are all the individuals whose curiosity and dedication make Uppsala University one of Sweden’s most exciting workplaces. Uppsala University has 45,000 students, 7,000 employees and a turnover of SEK 7 billion.
+    Main ecosystems: 
+      - Lakes
+      - Streams
+    Operational period: year-round
+    acronym: ERK
+    monitoring programmes:
+      - SITES Water
+      - SITES AquaNet
+      - SITES Spectral    
+  Grimsö:
+    name: Grimsö Wildlife Research Station
+    location: Grimsö, Sweden
+    latitude: 59.7286
+    longitude: 15.4724
+    elevation: 100
+    timezone: Europe/Stockholm
+    url: https://www.sitespectral.org/research-stations/grimso
+    image: https://www.sitespectral.org/wp-content/uploads/2019/03/Grimsö-Wildlife-Research-Station-300x200.jpg
+    description: Grimsö Wildlife Research Station is located in the central part of Sweden, 30 km north of Örebro. The station is situated at the shore of Lake Hjälmaren, 100 m above sea level, and surrounded by forests. The station is owned by the Swedish University of Agricultural Sciences (SLU) and operated by the Department of Ecology at SLU. The station is open year-round and hosts researchers from all over the world. The station is also a popular destination for tourists and outdoor enthusiasts.
+    contact:
+      name: Grimsö Wildlife Research Station
+      email:  
+      phone:
+      address:
+      city:
+      state:
+      zip:
+      country: Sweden
+    is_associated_station: false
+    is_SITES_current_infrastructure: true
+    Organization: Swedish University of Agricultural Sciences
+    Organization_url: https://www.slu.se/en/
+    Organization_logo: https://www.sitespectral.org/wp-content/uploads/2019/03/Swedish-University-of-Agricultural-Sciences-300x200.jpg
+    Organization_description: The Swedish University of Agricultural Sciences (SLU) develops the understanding and sustainable use and management of biological natural resources. SLU is a research-intensive university that also offers unique degree programmes in for example rural development and natural resource management, environmental economics, animal science and landscape architecture.
+    Main ecosystems: 
+      - Coniferous forestt
+      - Lakes
+      - Streams
+      - Wetlands
+    Operational period: year-round
+    acronym: GRI 
+    monitoring programmes:
+      - SITES Spectral
+  Lönnstorp:
+    name: Lönnstorp Research Station
+    location: Lönnstorp, Sweden
+    latitude: 55.6691
+    longitude: 13.1027
+    elevation: 18
+    timezone: Europe/Stockholm
+    url: https://www.sitespectral.org/research-stations/lonnstorp
+    image: https://www.sitespectral.org/wp-content/uploads/2019/03/Lönnstorp-Research-Station-300x200.jpg
+    description: Lönnstorp Research Station is located in the southern part of Sweden, 20 km north of Lund. The station is situated at the shore of Lake Ringsjön, 20 m above sea level, and surrounded by forests. The station is owned by the Swedish University of Agricultural Sciences (SLU) and operated by the Department of Biosystems and Technology at SLU. The station is open year-round and hosts researchers from all over the world. The station is also a popular destination for tourists and outdoor enthusiasts.
+    contact:
+      name: Lönnstorp Research Station
+      email:  
+      phone:
+      address:
+      city:
+      state:
+      zip:
+      country: Sweden
+    is_associated_station: false
+    is_SITES_current_infrastructure: true
+    Organization: Swedish University of Agricultural Sciences
+    Organization_url: https://www.slu.se/en/
+    Organization_logo: https://www.sitespectral.org/wp-content/uploads/2019/03/Swedish-University-of-Agricultural-Sciences-300x200.jpg
+    Organization_description: The Swedish University of Agricultural Sciences, SLU, has its main locations in Alnarp, Umeå and Uppsala. SLU is certified to the ISO 14001 environmental standard. SLU is a research-intensive university that also offers unique degree programmes in for example rural development and natural resource management, environmental economics, animal science and landscape architecture.
+    Main ecosystems: 
+      - Agricultural land
+    Operational period: year-round
+    acronym: LON
+    monitoring programmes:
+      - SITES Spectral      
+  Röbacksdalen:
+    name: Röbacksdalen Field Research Station
+    location: Röbacksdalen, Sweden
+    latitude: 63.8108
+    longitude: 20.2419
+    elevation: 12
+    timezone: Europe/Stockholm
+    url: https://www.sitespectral.org/research-stations/robacksdalen
+    image: https://www.sitespectral.org/wp-content/uploads/2019/03/Röbacksdalen-Field-Research-Station-300x200.jpg
+    description: Röbacksdalen Field Research Station is located in the southern part of Sweden, 20 km north of Växjö. The station is situated at the shore of Lake Rössjön, 100 m above sea level, and surrounded by forests. The station is owned by the Swedish University of Agricultural Sciences (SLU) and operated by the Department of Forest Mycology and Plant Pathology at SLU. The station is open year-round and hosts researchers from all over the world. The station is also a popular destination for tourists and outdoor enthusiasts.
+    contact:
+      name: Röbacksdalen Field Research Station
+      email:  
+      phone:
+      address:
+      city:
+      state:
+      zip:
+      country: Sweden
+    is_associated_station: false
+    is_SITES_current_infrastructure: true
+    Organization: Swedish University of Agricultural Sciences
+    Organization_url: https://www.slu.se/en/
+    Organization_logo: https://www.sitespectral.org/wp-content/uploads/2019/03/Swedish-University-of-Agricultural-Sciences-300x200.jpg
+    Organization_description: The Swedish University of Agricultural Sciences, SLU, has its main locations in Alnarp, Umeå and Uppsala. SLU is certified to the ISO 14001 environmental standard. SLU is a research-intensive university that also offers unique degree programmes in for example rural development and natural resource management, environmental economics, animal science and landscape architecture.
+    Main ecosystems: 
+      - Agricultural land
+      - Lakes
+      - Streams
+    operational period: year-round
+    acronym: RBD
+    monitoring programmes:
+      - SITES Water
+      - SITES Spectral      
+  Skogaryd:
+    name: Skogaryd Research Catchment
+    location: Skogaryd, Sweden
+    latitude: 58.3738
+    longitude: 12.1648
+    elevation: 79
+    timezone: Europe/Stockholm
+    url: https://www.sitespectral.org/research-stations/skogaryd
+    image: https://www.sitespectral.org/wp-content/uploads/2019/03/Skogaryd-Research-Catchment-300x200.jpg
+    description: Skogaryd Research Catchment is located in the southern part of Sweden, 20 km north of Borås. The station is situated at the shore of Lake Skogarydssjön, 200 m above sea level, and surrounded by forests. The station is owned by the Swedish University of Agricultural Sciences (SLU) and operated by the Department of Forest Ecology and Management at SLU. The station is open year-round and hosts researchers from all over the world. The station is also a popular destination for tourists and outdoor enthusiasts.
+    contact:
+      name: Skogaryd Research Catchment
+      email:  
+      phone:
+      address:
+      city:
+      state:
+      zip:
+      country: Sweden
+    is_associated_station: false
+    is_SITES_current_infrastructure: true
+    Organization: University of Gothenburg
+    Organization_url: https://www.gu.se/en
+    Organization_logo: https://www.sitespectral.org/wp-content/uploads/2019/03/University-of-Gothenburg-300x200.jpg    
+    Organization_description: The University of Gothenburg tackles society’s challenges with diverse knowledge. 37 000 students and 6 000 employees make the University a large and inspiring place to work and study, with a continuous flow of new knowledge and ideas.
+    Main ecosystems: 
+      - Mires
+      - Clear cuts 
+      - Drained forests
+      - Forests
+      - Lakes
+      - Streams
+    operational period: year-round
+    acronym: SRC
+    monitoring programmes:
+      - SITES Water
+      - SITES AquaNet
+      - SITES Spectral
+  Svartberget:
+    name: Svartberget Research Station
+    location: Svartberget, Sweden
+    latitude: 64.2443
+    longitude: 19.7663
+    elevation: 230
+    timezone: Europe/Stockholm
+    url: https://www.sitespectral.org/research-stations/svartberget
+    image: https://www.sitespectral.org/wp-content/uploads/2019/03/Svartberget-Research-Station-300x200.jpg
+    description: Svartberget Research Station is located in the northern part of Sweden, 50 km north of Umeå. The station is situated at the shore of Lake Tavelsjön, 200 m above sea level, and surrounded by forests. The station is owned by the Swedish University of Agricultural Sciences (SLU) and operated by the Department of Forest Ecology and Management at SLU. The station is open year-round and hosts researchers from all over the world. The station is also a popular destination for tourists and outdoor enthusiasts.
+    contact:
+      name: Svartberget Research Station
+      email:  
+      phone:
+      address:
+      city:
+      state:
+      zip:
+      country: Sweden
+    is_associated_station: false
+    is_SITES_current_infrastructure: true
+    Organization: Swedish University of Agricultural Sciences
+    Organization_url: https://www.slu.se/en/
+    Organization_logo: https://www.sitespectral.org/wp-content/uploads/2019/03/Swedish-University-of-Agricultural-Sciences-300x200.jpg
+    Organization_description: The Swedish University of Agricultural Sciences, SLU, has its main locations in Alnarp, Umeå and Uppsala. SLU is certified to the ISO 14001 environmental standard. SLU is a research-intensive university that also offers unique degree programmes in for example rural development and natural resource management, environmental economics, animal science and landscape architecture.
+    Main ecosystems: 
+      - Mires      
+      - Forests
+      - Lakes
+      - Streams
+    operational period: year-round
+    acronym: SVB 
+    monitoring programmes:
+      - SITES Water
+      - SITES AquaNet
+      - SITES Spectral    
+  Tarfala:
+    name: Tarfala Research Station
+    location: Tarfala, Sweden
+    latitude: 67.9112
+    longitude: 18.6108
+    elevation: 1130
+    timezone: Europe/Stockholm
+    url: https://www.sitespectral.org/research-stations/tarfala
+    image: https://www.sitespectral.org/wp-content/uploads/2019/03/Tarfala-Research-Station-300x200.jpg
+    description: Tarfala Research Station is located in the northern part of Sweden, 50 km north of Kiruna. The station is situated at the shore of Lake Tarfalajaure, 1000 m above sea level, and surrounded by glaciers. The station is owned by the Swedish University of Agricultural Sciences (SLU) and operated by the Department of Physical Geography at Stockholm University. The station is open year-round and hosts researchers from all over the world. The station is also a popular destination for tourists and outdoor enthusiasts.
+    contact:
+      name: Tarfala Research Station
+      email:  
+      phone:
+      address:
+      city:
+      state:
+      zip:
+      country: Sweden
+    is_associated_station: false
+    is_SITES_current_infrastructure: false
+    Organization: Stockholm University
+    Organization_url: https://www.su.se/english/
+    Organization_logo: https://www.sitespectral.org/wp-content/uploads/2019/03/Stockholm-University-300x200.jpg
+    Organization_description: Stockholm University is one of Europe’s leading universities in one of the world’s most dynamic capitals. We have more than 70,000 students, 1,800 PhD students and 5,000 members of staff working in science, the humanities and social sciences.
+    Main ecosystems: 
+      - Glaciers
+      - Permafrost
+      - Hydrology
+      - Meteorology
+      - Pollution
+      - Vegetation
+    acronym: TRS 
+    monitoring programmes:
+      - SITES Water
+      - SITES Spectral
+    Operational period: March-April, June-September
+        
