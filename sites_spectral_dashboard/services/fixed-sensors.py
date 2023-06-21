@@ -3,8 +3,9 @@ import pandas as pd
 
 
 def run():
-   st.title('UAVs flying calendar')
-   st.write('This is a calendar to schedule the UAVs flights')
+   st.title('SITES spectral | Fixed sensors dashboard')
+   st.write('This is the main dashboard for fixed sensors')
+   st.warning('**This is a work in progress**')
     
     
 # ---
