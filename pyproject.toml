@@ -10,7 +10,7 @@ packages = [{include = "sites_spectral_dashboard"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 streamlit = "^1.23.1"
-bgstools = "^0.1.7"
+bgstools = "^0.1.8"
 opencv-python = "^4.7.0.72"
 pyyaml = "^6.0"
 ffmpeg-python = "^0.2.0"
