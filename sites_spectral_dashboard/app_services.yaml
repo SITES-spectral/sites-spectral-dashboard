@@ -3,8 +3,47 @@
 # created_on: 2023-06-14
 # maintainer: José Beltrán - 
 
+
+-
+  name: 'Main Dashboard'
+  description: 'SITES spectral | Dashboard'
+  url: "sites-spectral-main-dashboard.py"
+
+-
+  name: 'Field stations map'
+  description: 'SITES spectral | Field stations map overview'
+  url: "sites-spectral-stations-map-dashboard.py"
+
 - 
   name: 'UAVs flying calendar'
   description: 'SITES spectral UAVs planning flying calendar'
-  url: "UAVs_flying_calendar.py"
+  url: "sites-spectral-uav-flying-calendar.py"
+
+-
+  name: 'Phenology cameras Dashboard'
+  description: 'SITES spectral | Phenology cameras Dashboard'
+  url: "phenology-cameras-dashboard.py"
+
+-
+  name: 'Fixed sensors Dashboard'
+  description: 'SITES spectral | Fixed sensors Dashboard'
+  url: "fixed-sensors.py"
+
+-
+  name: 'UAVs Dashboard'
+  description: 'SITES spectral | UAVs Dashboard'
+  url: "sites-spectral-uavs-dashboard.py"
+
+-
+  name: 'Satellite Remote Sensing Dashboard'
+  description: 'SITES spectral | Satellite Remote Sensing Dashboard'
+  url: "satellite-remote-sensing.py"
+
+-
+  name: 'toolbox'
+  description: 'SITES spectral | Toolbox'
+  url: "sites-spectral-toolboox.py"
+
+
+
 
