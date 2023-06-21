@@ -14,9 +14,9 @@ st.set_page_config(
 
 
 def run():
-    LOGO_SITES_SPECTRAL = st.secrets['LOGOS']['LOGO_SIDEBAR_URL']
-    if LOGO_SITES_SPECTRAL: st.sidebar.image(
-            LOGO_SITES_SPECTRAL,             
+    LOGO_SIDEBAR_URL = st.secrets['LOGOS']['LOGO_SIDEBAR_URL']
+    if LOGO_SIDEBAR_URL: st.sidebar.image(
+            LOGO_SIDEBAR_URL,             
             caption= 'Swedish Infrastructure for Ecosystem Science (SITES) spectral'
             )
         
