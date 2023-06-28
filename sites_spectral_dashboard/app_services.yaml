@@ -17,33 +17,8 @@
 - 
   name: 'UAVs flying calendar'
   description: 'SITES spectral UAVs planning flying calendar'
-  url: "sites-spectral-uav-flying-calendar.py"
-
+  url: "UAVs_flying_calendar.py"
 -
-  name: 'Phenology cameras Dashboard'
-  description: 'SITES spectral | Phenology cameras Dashboard'
-  url: "phenology-cameras-dashboard.py"
-
--
-  name: 'Fixed sensors Dashboard'
-  description: 'SITES spectral | Fixed sensors Dashboard'
-  url: "fixed-sensors.py"
-
--
-  name: 'UAVs Dashboard'
-  description: 'SITES spectral | UAVs Dashboard'
-  url: "sites-spectral-uavs-dashboard.py"
-
--
-  name: 'Satellite Remote Sensing Dashboard'
-  description: 'SITES spectral | Satellite Remote Sensing Dashboard'
-  url: "satellite-remote-sensing.py"
-
--
-  name: 'toolbox'
-  description: 'SITES spectral | Toolbox'
-  url: "sites-spectral-toolbox.py"
-
-
-
-
+  name: UAVs multispectral image corrections
+  description:
+  url: UAVs_image_corrections.py 
